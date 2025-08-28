@@ -95,7 +95,7 @@ Bounding box precision at higher IoUs isn’t critical, since the system only ne
 ---
 
 ## 🎥 Demo
-👉 [Watch the Demo Video](https://your-demo-link.com)  
+👉 [Watch the Demo Video](hand_detector_github.mp4)  
 *(shows: bare hands, gloves, poor lighting, motion-triggered stop, and dashboard monitoring)*  
 
 ---
